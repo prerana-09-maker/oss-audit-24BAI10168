@@ -2,11 +2,11 @@ OSS Capstone Project
 
 👤 Student Details
 
-Name: SINGH BHUMIJA LALITKUMAR 
+Name: PRERANA TRIPATHI
 
-Registration No: 24BCE11200
+Registration No: 24BAI10168
 
-Course: B.Tech CSE CORE
+Course: B.Tech CSE AIML
 
 Semester: WINTER SEM 25-26 
 
